@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GPS</string>
+    <string name="txt_coordenadas_gps_java">teste_!</string>
+    <string name="txt_latitude">teste_2</string>
+    <string name="txt_longitude">teste_3</string>
+    <string name="txt_pin_gps_no_mapa">teste_4</string>
+    <string name="txt_valor_zero">teste_6</string>
+    <string name="txt_coordenadas_gps">COORDENADAS GPS</string>
+    <string name="txt_latitude1">Latitude</string>
+    <string name="txt_longitude2">Longitude</string>
+    <string name="txt_valor_zero1">0.00</string>
+    <string name="txt_valor_zero2">0.00</string>
+    <string name="gps_novo">gps</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
